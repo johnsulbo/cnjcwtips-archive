@@ -1,2 +1,14 @@
 # cnjcwtips-archive
-HTML page archive and documentation
+
+页面文件归档说明
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
